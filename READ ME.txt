@@ -1,0 +1,15 @@
+READ ME
+Especialista cães
+
+Descrição: Projeto desenvolvido para a disciplina de resolução e lógica matemática. O projeto consiste em um sistema que avalia os comportamentos do animal para decifrar o significado da linguagem corporal
+
+Projeto finalizado.
+
+Funcionalidades: 1) Fornece 4 perguntas iniciais de múltipla escolha.
+		 2) Busca na cadeia de condições se o resultado especifico é encontrado.
+		 3) Imprime o resultado.
+		 4) compila uma tela de interface com o usuário com as instruções de perguntas e respostas do código
+
+Tecnologias utilizadas: Java
+
+Desenvolvedores : Diego Simoes e Bruna Glislere
